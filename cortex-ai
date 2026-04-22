@@ -1,0 +1,8 @@
+# Check status
+git status
+
+# Add all files
+git add .
+
+# Commit
+git commit -m "Initial Cortex AI implementation with core modules"
